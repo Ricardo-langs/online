@@ -3,6 +3,12 @@ Ufile Download
 
 Downloading UFile is quick and easy, allowing users to access tax software and begin the setup process without delay. Whether you are installing it for the first time or downloading it again, following the correct steps ensures a smooth experience.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://knowledgemask.com/ufile-ca-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Ufile CA</a>
+   </div>
+
 Steps to Download Ufile
 =========
 
