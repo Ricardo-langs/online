@@ -234,3 +234,12 @@ Conclusion
 ----------
 
 Understanding how to complete **Ufile CA Download**, use **Ufile Download Windows**, access **Ufile Online**, and perform **Ufile Download Install** with an activation key makes the entire process simple and efficient. By following the correct steps, you can install the software on your Windows 10 or 11 device, activate it securely, and begin filing your taxes without any hassle. Whether you choose desktop installation or online access, UFile provides a reliable and user-friendly solution for all your tax needs in Canada.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Pages:
+
+   downloading
+   ufile-download
+   signin
+   download-install
