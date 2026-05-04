@@ -3,6 +3,12 @@ Ufile CA Download
 
 Downloading UFile CA helps users access Canadian tax software quickly and securely. By following the correct process, you can ensure a smooth and hassle-free download experience.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://knowledgemask.com/ufile-ca-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Ufile CA</a>
+   </div>
+
 Steps to Download Ufile using Ufile.ca Download
 =====================
 
