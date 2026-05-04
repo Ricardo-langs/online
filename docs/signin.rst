@@ -3,6 +3,12 @@ ufile sign in
 
 Signing in to your UFile account allows you to securely access your tax data, manage returns, and continue your work from any device. Follow these steps to log in safely and without issues.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://knowledgemask.com/ufile-ca-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Ufile CA</a>
+   </div>
+
 Steps to Sign in Ufile
 =========
 
