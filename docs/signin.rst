@@ -1,7 +1,7 @@
 ufile sign in
 =============
 
-Signing in to your UFile account allows you to securely access your tax data, manage returns, and continue your work from any device. Follow these steps to log in بسهولة and safely.
+Signing in to your UFile account allows you to securely access your tax data, manage returns, and continue your work from any device. Follow these steps to log in safely and without issues.
 
 Steps to Sign in Ufile
 =========
